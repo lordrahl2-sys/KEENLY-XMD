@@ -2,7 +2,7 @@
 # 🌟 𝙆𝙀𝙀𝙉𝙇𝙔 𝙓𝙈𝘿 🌟
 
 <p align="center">
-  <img src="https://files.catbox.moe/9yic1a.jpg" alt="KEENLY XMD Logo" width="600"/>
+  <img src="https://res.cloudinary.com/dgy2dutjs/image/upload/v1751656256/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C1_xyfpby.jpg" alt="KEENLY XMD Logo" width="600"/>
 </p>
 
 <p align="center">
