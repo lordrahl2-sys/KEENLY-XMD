@@ -1,11 +1,13 @@
-# GitHub Sponsors
-github: ["Obedweb"]
-thanks_dev: ["gh/Obedweb"]
+# 👑 Royal GitHub Sponsors Config - Lord Rahl Edition
 
-# Additional Sponsorship Platforms (if any, e.g., Open Collective or Patreon)
-# Uncomment and replace URLs as needed
-# patreon: [your-patreon-username]
-# open_collective: [your-collective-name]
-# ko_fi: [your-ko-fi-username]
-# tidelift: [your-tidelift-project-url]
-# custom: ["https://example.com/sponsor"]
+github: ["LordRahl2-sys"]
+thanks_dev: ["gh/LordRahl2-sys"]
+
+# 💠 Additional Sponsorship Platforms
+# Enable and update the lines below to activate them
+
+# patreon: [lordrahl]
+# open_collective: [lordrahl-collective]
+# ko_fi: [lordrahl]
+# tidelift: [https://tidelift.com/funding/github/rahl-backend]
+# custom: ["https://rahl.tech/sponsor"]
