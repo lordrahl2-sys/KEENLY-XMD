@@ -53,7 +53,7 @@ cmd({
   try {
     const menuText = `
 ╭━━━━━━━━━━━━━━━━━━━━╮
-  ✨ 𝐊𝐄𝐄𝐍𝐋𝐘 𝐗𝐌𝐃 ✨
+  ✨ LORD-RAHL  XMD✨
 ╰━━━━━━━━━━━━━━━━━━━━╯
 
 ${rainbow.join('')} BOT INFORMATION ${rainbow.reverse().join('')}
@@ -134,7 +134,7 @@ cmd({
   try {
     const animeMenu = `
 ╭━━━━━━━━━━━━━━━━━━━━╮
-  🎌 ANIME WORLD 🎌
+  🎌  RAHL ANIME WORLD 🎌
 ╰━━━━━━━━━━━━━━━━━━━━╯
 
 ${rainbow.join('')} CHARACTERS ${rainbow.reverse().join('')}
@@ -221,8 +221,8 @@ cmd({
 }, async (conn, mek, m, { from, reply }) => {
   try {
     const groupMenu = `
-╭━━━━━━━━━━━━━━━━━━━━╮
-  🧑‍🤝‍🧑 GROUP MANAGER 🧑‍🤝‍🧑
+╭━━━━━━━━━━━━━━━━━━━╮
+  🧑‍🤝‍🧑 ROYAL THRONE 
 ╰━━━━━━━━━━━━━━━━━━━━╯
 
 ${rainbow.join('')} ADMIN TOOLS ${rainbow.reverse().join('')}
